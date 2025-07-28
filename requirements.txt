@@ -6,3 +6,4 @@ duckdb
 beautifulsoup4
 requests
 aiohttp
+python-multipart
