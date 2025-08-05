@@ -7,3 +7,5 @@ beautifulsoup4
 requests
 aiohttp
 python-multipart
+scipy
+httpx
